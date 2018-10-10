@@ -1,11 +1,5 @@
-# Index file
-Testing content
+# Making notes while learning
+Some scribbles done while learning new tech.
 
-## Second 
-More content
-
-{{ site.data.navigation }}
-
-{% for post in site.posts %}
-[{{ post.title }}]({{ post.url }})
-{% endfor %}
+## Notes
+[How to use core API?](/_drafts/how-to-use-coreapi.md)
